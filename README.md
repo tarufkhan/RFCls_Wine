@@ -31,4 +31,4 @@ What's done here -
 
 * Lastly, the roc curve is also upto 0.80 and the graph is as below.
 
-1[img5](/img/rfc5.PNG)
+![img5](/img/rfc5.PNG)
